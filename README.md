@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anuj-Parekh
-- 👀 I’m interested in ... Python, Java,html, PHP
-- 🌱 I’m currently learning ... Web development, Machine learning
+- 👀 I’m interested in ... RTL to GDS , PD, TCL, Python, machine learning
+- 🌱 I’m currently learning ... Physical design 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
